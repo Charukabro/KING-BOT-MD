@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.owner = ['94786178335']
+global.premium = ['94786178335']
+global.ownernomer = '94786178335'
+global.ownername = '♕۝⃟̥̩̩̩̥̩♥️𝒞𝐻𝒜𝓡𝓾۝⃟̥̩̩̩̥̩̥♥️♕'
+global.botname = '[🇱🇰♕۝⃟̥̩̩̩̥̩♥️𝒞𝐻𝒜𝓡𝓾۝⃟̥̩̩̩̥̩̥♥️♕'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
 global.region = 'Sri Lanka'
 global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.packname = '[🇱🇰🤔♕۝⃟̥̩̩̩̥̩♥️𝒞𝐻𝒜𝓡𝓾۝⃟̥̩̩̩̥̩̥♥️♕]'
 global.author = 'ШHłТΞ HΛϾКΞЯS'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
